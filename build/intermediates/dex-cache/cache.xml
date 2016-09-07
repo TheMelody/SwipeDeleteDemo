@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c371b5d8f212eb93014c499f6d9879b98adcbb48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_dc7998f057bd558e0969fc990b5151c1e0f9291f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_4eaf66d853af6e8f862d4f259495f6e8f4aa1ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dfa30c448f76882062f596aa8fb15874e139398e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_173424fc74c3cc8f53bf8173cf696c741d37fa55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_9d3d956619b367ef0b8473b35f4eea87fa8f1aa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_6b582de6a8ff098ef14d5e3b5a7659cef8a2f77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2f53cc82ec9f48501e948a63b65b42dcff6d635f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="22706a0ae2e0e617d1382e66cf5a3e29cd57e430">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7a78f5f5dad3f52a04327c5e68499b1aa4a83d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_797d97be7cced7a34f625695d35946d6fdcd816c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\source\androidstudio\Sdk_2.2\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_4a15da777d73bb280ba60a7b2625f314cad4bd68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_d35a74bf71d929bf10d9acd9b4834eec1849c869\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_7e41acdcb97ead92d68cd9e7370b3e65620d776e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b2525ea0638fdefba33eb19a8e11db4a7cf70b1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3ef6e378b783bbcc99035516ec6378e96a90178">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a5a90b22c400060bb07eb42bb175fd4bc9f82541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f13213edddd8b2ad8cc3bd7a0796c3b7ed6b9ade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\study_demo\SwipeDeleteDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_e328961c0443a76404be0b9edb6be60231c35723\classes.dex" />
+    </item>
+
+</items>
